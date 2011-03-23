@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3518
+
+Accentuate is a Vim plugin that uses the Accentuate.us web service to restore
+accents and special characters to text in over a hundred languages.
+
+See doc/accentuate.txt in accentuate.zip for detailed documentation.
+
+This plugin is also available on github: https://github.com/wnodom/vim-accentuate
+
